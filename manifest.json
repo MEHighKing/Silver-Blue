@@ -1,0 +1,50 @@
+{
+  "manifest_version": 2,
+  "version": "1.0",
+  "name": "Cool Blue",
+  "theme": {
+    "images": {
+      "additional_backgrounds": [
+        "images/bg-000-5672c42860d5b06e1058dc477397f3ef.svg"
+      ]
+    },
+    "properties": {
+      "additional_backgrounds_alignment": [
+        "top"
+      ],
+      "additional_backgrounds_tiling": [
+        "repeat"
+      ]
+    },
+    "colors": {
+      "toolbar": "rgb(209, 226, 241)",
+      "toolbar_text": "rgba(27, 36, 36, 0.95)",
+      "frame": "rgb(209, 226, 241)",
+      "tab_background_text": "rgb(100, 118, 121)",
+      "toolbar_field": "rgb(179, 202, 222)",
+      "toolbar_field_text": "rgb(37, 39, 41)",
+      "tab_line": "rgb(76, 128, 215)",
+      "popup": "rgb(209, 226, 241)",
+      "popup_text": "rgb(27, 36, 36)",
+      "button_background_active": "rgba(1, 22, 39, 0.12)",
+      "button_background_hover": "rgba(105, 149, 185, 0.17)",
+      "icons": "rgb(9, 74, 136)",
+      "ntp_background": "rgb(214, 222, 235)",
+      "ntp_text": "rgb(29, 59, 83)",
+      "popup_border": "rgba(90, 118, 146, 0.95)",
+      "popup_highlight": "rgb(209, 226, 241)",
+      "sidebar_border": "rgb(29, 59, 83)",
+      "sidebar_highlight_text": "rgb(208, 221, 233)",
+      "sidebar_highlight": "rgb(29, 59, 83)",
+      "sidebar_text": "rgba(27, 36, 36, 0.95)",
+      "sidebar": "rgb(209, 226, 241)",
+      "tab_loading": "rgb(13, 27, 79)",
+      "tab_selected": "rgb(130, 158, 183)",
+      "tab_text": "rgb(240, 243, 248)",
+      "toolbar_bottom_separator": "rgba(1, 22, 39, 0)",
+      "toolbar_field_border": "rgb(29, 59, 83)",
+      "toolbar_top_separator": "rgba(1, 22, 39, 0.12)",
+      "toolbar_vertical_separator": "rgb(50, 56, 77)"
+    }
+  }
+}
